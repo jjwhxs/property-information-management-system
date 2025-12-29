@@ -98,4 +98,4 @@ public PageData list(@RequestParam(value = "page",defaultValue = "1")Integer pag
 
 <img width="1075" height="123" alt="链接" src="https://github.com/user-attachments/assets/ad3e2c90-ef34-4b90-8029-5ddb0275f66f" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
